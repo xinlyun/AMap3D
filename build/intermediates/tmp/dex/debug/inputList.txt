@@ -1,0 +1,9 @@
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/classes/debug
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/AMap_ Location_v1.4.0_20150830-f05d9bcd4e5c41c904324f0f06bf179047b81f64.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/MapApiServices-ed6d50688ee5077593c9fdecd7aa6f6789c3a57b.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/android-support-v4-69b60f2df423d06975d21c591a8fd5458f4a5673.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/Android_Map_V3.0.20150831-ae5753af210ff6f81ca2cf3a725024f5915d43be.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/armeabi-v7a-cd4063b3d86e22115bd00a43b1ebba265386ee3b.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/armeabi-992aad94f5b491a0d33b6c39593735ff8891d2c3.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/x86-713451e4337773b2ce938757ec1462a0a09cc314.jar
+/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/arm64-v8a-c4acdf3f72d8c7f999a093866208adea7d31563b.jar

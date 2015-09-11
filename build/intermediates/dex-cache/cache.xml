@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/Android_Map_V3.0.20150831.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b7cd1ac572162f78b5ca23d763d4c3cc9b7e1e07">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/Android_Map_V3.0.20150831-ae5753af210ff6f81ca2cf3a725024f5915d43be.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/AMap_ Location_v1.4.0_20150830.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77864ab8aa4e06bec7125d37edc68a5afd2d6930">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/AMap_ Location_v1.4.0_20150830-f05d9bcd4e5c41c904324f0f06bf179047b81f64.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/android-support-v4-69b60f2df423d06975d21c591a8fd5458f4a5673.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/MapApiServices.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e84628aa8eea7b9892768f19c41dbe02abc7f666">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/MapApiServices-ed6d50688ee5077593c9fdecd7aa6f6789c3a57b.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/armeabi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb9b39a2dfbf6a7c4a7b5d6686235a047248e8d2">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/armeabi-992aad94f5b491a0d33b6c39593735ff8891d2c3.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/arm64-v8a.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1493c1b3dd59819538eee98b87631ba8fb9b6a0">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/arm64-v8a-c4acdf3f72d8c7f999a093866208adea7d31563b.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/armeabi-v7a.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aad9b0cbc18085e41396842ed4b1ac1cb62e67da">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/armeabi-v7a-cd4063b3d86e22115bd00a43b1ebba265386ee3b.jar" />
+    </item>
+    <item
+        jar="/home/xinlyun/Android_workspace/AMap3DDemo/libs/x86.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9057e2acdd33b609adaefe373d1875298d184afb">
+        <dex dex="/home/xinlyun/Android_workspace/AMap3DDemo/build/intermediates/pre-dexed/debug/x86-713451e4337773b2ce938757ec1462a0a09cc314.jar" />
+    </item>
+
+</items>
